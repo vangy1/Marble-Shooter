@@ -11,7 +11,7 @@ Ako sa ovláda:
 Udávanie smeru guličky - pohyb myši
 Streľba - kliknutím tlačítka na myši
 
-Ako sa spúšťa:
+Ako sa spúšťa (je potrebná verzia Javy 1.10 a nižšie, verzia 11+ neobsahuje JavaFX):
 - spustením MarbleShooter.jar súboru (zložka resources musí byť v rovnakom adresári ako MarbleShooter.jar)
 - kompilovaním a spustením ako JavaFX aplikácie
 
